@@ -19,8 +19,8 @@ A=np.array([[2,-3,0],[2,-5,0],[0,0,3]])
 values,vectors=np.linalg.eig(A)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
-# Output:
-#![eigenvalues](https://github.com/Mkumar262006/EIGENVALUES-AND-EIGENVECTORS/assets/147139472/c69534de-a7c2-4a57-a723-4b32e2cf65c2)
+## Output:
+![eigenvalues](https://github.com/Mkumar262006/EIGENVALUES-AND-EIGENVECTORS/assets/147139472/c69534de-a7c2-4a57-a723-4b32e2cf65c2)
 
 
 ## Result:
